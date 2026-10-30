@@ -1,3 +1,7 @@
+# This is intended to be ran on a Ubuntu Linux system. This has not been tested with Debian, Linux Mint, Pop_os, or any other ubuntu/debian derivatives. 
+# This will not work on any system that does not use the apt package manager, unless you modify it. If you intend to modify it, please check what package manager your system uses, and if the packages names are correct.
+
+
 import subprocess
 import time
 # pre install setup mainly for steam
